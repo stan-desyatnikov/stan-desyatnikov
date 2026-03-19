@@ -28,7 +28,7 @@ Regular automated regression testing is vital for project success.
 
 Automated end-to-end (E2E) regression testing may capture up to 10% of issues after minor code changes and up to 80% after major breaking changes.
 
-Integrating automated tests into CI/CD enables regular, scheduled test runs, which dramatically save time compared to manual regression testing.
+Integrating automated tests into CI/CD enables regular, scheduled test runs, which dramatically saves time compared to manual regression testing.
 
 # Shift-left approach
 
@@ -44,7 +44,7 @@ The most well-known activities are:
 
 Before creating tools to generate test reports, think about who will use them and when. Avoid wasting resources on developing tools that nobody needs.
 
-It may be tempting to treat test run pipelines as a final report. However, considering pipeline results together with reported bugs and tester feedback provides a more accurate picture.
+It may be tempting to treat test pipelines results as a final report. However, considering the pipeline results together with reported bugs and testers' feedback provides a more accurate picture.
 
 # Testers
 
